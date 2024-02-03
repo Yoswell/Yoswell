@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Captura de pantalla 2024-02-02 173942](https://github.com/Yoswell/Yoswell/assets/113799193/4ea106db-9a48-41f4-b6fc-fe66cccb706c)
 
 ## 👾 Resume
