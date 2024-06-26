@@ -48,8 +48,8 @@ These are my skills
   <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-## 🔗 Information
-These are my skills
+## 🔗 Statistics
+These are my statistics
 
 <div align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
