@@ -48,11 +48,7 @@ These are my skills
 
 <img align="center" width="300" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
 
-<div align="left">
-    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<img src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
