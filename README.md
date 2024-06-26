@@ -46,7 +46,7 @@ These are my skills
 ##
 
 <div align="center">
-  <img width="80" src="https://github.com/Yoswell/Yoswell/assets/113799193/7c68f980-fb24-431f-b107-9cdc6975dcff" />
+  <img width="300" src="https://github.com/Yoswell/Yoswell/assets/113799193/7c68f980-fb24-431f-b107-9cdc6975dcff" />
 </div>
 
 <div align="left">
