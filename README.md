@@ -5,11 +5,12 @@
 ## 🚀 About Me
 I am a Computer Engineering student looking for opportunities to gain experience in areas such as development and cybersecurity. I enjoy collaborating as a team and supporting my colleagues in the best way possible. My interest lies in continually learning and growing. Currently, I am also specializing in cybersecurity as a junior analyst, seeking and improving my skills in challenging environments.
 
+
 ## 🛠 Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.flaticon.com/free-icon/java_226777" height="30" alt="java logo"  />
+  <img src="https://www.flaticon.com/free-icon/java_226777](https://github.com/Yoswell/Yoswell/assets/113799193/d2d419d9-fc74-40e3-b77c-d65359f305f7" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
