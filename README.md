@@ -8,7 +8,7 @@ I am a Computer Engineering student looking for opportunities to gain experience
 ## 🛠 Skills
 These are my skills
 <div widht="50" align="center">
-  <img align="left" src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img align="left" src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portafolio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -42,7 +42,7 @@ These are my skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img align="left" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ## 🔗 Information
