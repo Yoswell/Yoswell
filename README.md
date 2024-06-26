@@ -1,11 +1,8 @@
-<div>
-  <img align="left" height="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829" />
-<img align="right" height="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
-</div>
+<img align="center" src="https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829" />
 
-##
-
+<img width="12" />
 <h2 align="left">Hi 👋! My name is Yoswel Badilla and from Costa Rica</h2>
+<img width="12" />
 
 ## 🚀 About Me
 I am a Computer Engineering student looking for opportunities to gain experience in areas such as development and cybersecurity. I enjoy collaborating as a team and supporting my colleagues in the best way possible. My interest lies in continually learning and growing. Currently, I am also specializing in cybersecurity as a junior analyst, seeking and improving my skills in challenging environments.
@@ -55,5 +52,7 @@ These are my skills
 
 <div>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img align="right" width="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
 </div>
