@@ -7,10 +7,9 @@
 ## 🚀 About Me
 I am a Computer Engineering student looking for opportunities to gain experience in areas such as development and cybersecurity. I enjoy collaborating as a team and supporting my colleagues in the best way possible. My interest lies in continually learning and growing. Currently, I am also specializing in cybersecurity as a junior analyst, seeking and improving my skills in challenging environments.
 
-<img width="12" />
 ## 🛠 Skills
 These are my skills
-<img width="12" />
+
 <div widht="50" align="center">
   <img align="left" src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portafolio logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -49,10 +48,8 @@ These are my skills
   <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<img width="12" />
 ## 🔗 Information
 These are my skills
-<img width="12" />
 
 <div align="center" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
