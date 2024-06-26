@@ -1,4 +1,4 @@
-![Captura de pantalla 2024-06-26 071802](https://github.com/Yoswell/Yoswell/assets/113799193/d75ff4b6-1951-4ce2-832b-a4f1096c19bf)
+![image](https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829)
 
 <h2 align="left">Hi 👋! My name is Yoswel Badilla and from Costa Rica</h2>
 
@@ -46,7 +46,7 @@ These are my skills
 ##
 
 <div align="center">
-  <img border-radius="10" radius="10" width="300" src="https://github.com/Yoswell/Yoswell/assets/113799193/7c68f980-fb24-431f-b107-9cdc6975dcff" />
+  <img width="300" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
 </div>
 
 <div align="left">
