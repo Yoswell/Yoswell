@@ -42,15 +42,13 @@ These are my skills
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img align="right" src="https://www.linkedin.com/in/yoswel-badilla-cyberjr/?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img align="right" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ## 🔗 Information
 These are my skills
 
 <div>
-    <img align="left" src="https://img.shields.io/static/v1?message=Portafolio&logo=portafolio&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-    <img align="left" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=false&order=2" height="150" alt="languages graph"  />
     <img align="right" width="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
 </div>
