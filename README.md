@@ -1,6 +1,9 @@
-<img align="left" height="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829" />
-
+<div>
+  <img align="left" height="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829" />
 <img align="right" height="250" src="https://github.com/Yoswell/Yoswell/assets/113799193/52a571bf-719e-4616-8ecf-7a6da78a596d" />
+</div>
+
+##
 
 <h2 align="left">Hi 👋! My name is Yoswel Badilla and from Costa Rica</h2>
 
