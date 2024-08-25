@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/Yoswell/Yoswell/assets/113799193/2a1920ee-c6b3-4da9-bd82-8aa696cf4829" />
+![image](https://github.com/user-attachments/assets/90fd4346-a1b8-4679-a9f9-0fe090016e77)
 
 ## 🚀 About Me
 I am a Computer Engineering student looking for opportunities to gain experience in areas such as development and cybersecurity. I enjoy collaborating as a team and supporting my colleagues in the best way possible. My interest lies in continually learning and growing. Currently, I am also specializing in cybersecurity as a junior analyst, seeking and improving my skills in challenging environments.
