@@ -48,13 +48,13 @@ These are my skills
 These are my statistics
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&langs_count=5&theme=codeSTACKr&hide_border=true&order=2&card_width=600px" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&langs_count=5&theme=vision-friendly-dark&hide_border=true&order=2&card_width=600px" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yoswell&theme=codeSTACKr&show_icons=true&hide_border=true&count_private=false&card_width=600px" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yoswell&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false&card_width=600px" height="150" alt="languages graph" />
 </div>
 
 <div align="right">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoswell&theme=codeSTACKr&hide_border=true&card_width=600px" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoswell&theme=vision-friendly-dark&hide_border=true&card_width=600px" height="150" alt="languages graph" />
 </div>
