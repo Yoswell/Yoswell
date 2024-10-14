@@ -1,4 +1,4 @@
-![Banner de Linkedin Moderno para Arquitecto Azul y Blanco](https://github.com/user-attachments/assets/412608cb-6c7b-45f0-bf33-489638d01c30)
+![Copia de Banner de Linkedin Moderno para Arquitecto Azul y Blanco](https://github.com/user-attachments/assets/95d14d8c-8265-4492-b275-a12623721f7a)
 
 ## 🚀 About Me
 I am a Computer Engineering student looking for opportunities to gain experience in areas such as development and cybersecurity. I enjoy collaborating as a team and supporting my colleagues in the best way possible. My interest lies in continually learning and growing. Currently, I am also specializing in cybersecurity as a junior analyst, seeking and improving my skills in challenging environments.
