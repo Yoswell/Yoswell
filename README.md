@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/535229d4-8391-42a7-81a6-a9d1accec1fd)
+
 <h1 align="left">Hola que tal? 👋</h1>
 
 <div align="left">
@@ -60,5 +62,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yoswell&locale=en&hide_title=false&layout=compact&langs_count=5&theme=midnight-purple&hide_border=true&order=2&card_width=600px" height="150" alt="languages graph" />
+</div>
+<div align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yoswell&theme=midnight-purple&hide_border=true&card_width=600px" height="150" alt="languages graph" />
 </div>
