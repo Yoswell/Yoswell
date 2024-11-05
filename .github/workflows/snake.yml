@@ -26,7 +26,7 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?color_snake=#52e0c1&color_dots=#ffb000,#348b79,#3da893,#4bd1b6,#52e0c1,#60ffdd,#785ef0
+          outputs: dist/snake.svg?color_snake=#52e0c1&color_dots=#1c1f26,#348b79,#3da893,#4bd1b6,#52e0c1,#60ffdd,#785ef0,#9facc6
 
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
