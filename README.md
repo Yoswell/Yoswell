@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a1f48413-8dcb-49e7-9e34-f01e91cdb12c)
-
 <h1 align="left">Hola que tal? 👋</h1>
 
 <div align="left">
