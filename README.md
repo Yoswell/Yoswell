@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/535229d4-8391-42a7-81a6-a9d1accec1fd)
+![image](https://github.com/user-attachments/assets/a1f48413-8dcb-49e7-9e34-f01e91cdb12c)
 
 <h1 align="left">Hola que tal? 👋</h1>
 
@@ -9,51 +9,44 @@
   
 </div>
 
-<h2 align="left">Mi nombre es Yoswel Badilla | A.k.a Vishok | Desarrollador Full-Stack y Analista SOC Junior</h2><br>
+<h1 align="left">Yoswel Badilla - A.k.a Vishok</h1>
+
+<p>
+Soy un Desarrollador Full-Stack Jr y Analista de Ciberseguridad Jr apasionado por la innovación tecnológica y la ciberseguridad. Mi misión va más allá de simplemente escribir código; busco crear soluciones eficientes que sean también seguras, escalables y que ofrezcan una experiencia de usuario excepcional. Entiendo que en el mundo digital actual, una aplicación no solo debe funcionar correctamente, sino también proteger los datos y la privacidad de sus usuarios frente a amenazas crecientes. Con una mentalidad creativa y una atención meticulosa a los detalles, aplico las mejores prácticas de desarrollo y seguridad informática para cada proyecto. Cada línea de código y cada decisión técnica están respaldadas por un enfoque integral y orientado a resultados, asegurando no solo cumplir los objetivos, sino también superar las expectativas.
+</p>
+
 
 <div widht="50" align="left">
   <img src="https://skillicons.dev/icons?i=ps" alt="ps" loading="lazy">
   <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" loading="lazy">
   <img src="https://skillicons.dev/icons?i=cs" alt="csharp" loading="lazy">
   <img src="https://skillicons.dev/icons?i=sqlite" alt="sql" loading="lazy">
+</div>
+<div widht="50" align="left">
   <img src="https://skillicons.dev/icons?i=react" alt="react" loading="lazy">
   <img src="https://skillicons.dev/icons?i=html" alt="html" loading="lazy">
   <img src="https://skillicons.dev/icons?i=css" alt="css" loading="lazy">
   <img src="https://skillicons.dev/icons?i=linux" alt="linux" loading="lazy">
+</div>
+<div widht="50" align="left">
   <img src="https://skillicons.dev/icons?i=python" alt="python" loading="lazy">
   <img src="https://skillicons.dev/icons?i=kali" alt="kali" loading="lazy">
   <img src="https://skillicons.dev/icons?i=java" alt="java" loading="lazy">
   <img src="https://skillicons.dev/icons?i=github" alt="github" loading="lazy">
+</div>
+<div widht="50" align="left">
   <img src="https://skillicons.dev/icons?i=javascript" alt="js" loading="lazy">
   <img src="https://skillicons.dev/icons?i=bash" alt="bash" loading="lazy">
   <img src="https://skillicons.dev/icons?i=dotnet" alt="net" loading="lazy">
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" loading="lazy">
+</div>
+<div>
   <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" loading="lazy">
   <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" loading="lazy">
   <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" loading="lazy">
   <img src="https://skillicons.dev/icons?i=debian" alt="debian" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=discord" alt="discord" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=windows" alt="windows" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=ps" alt="ps" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=cs" alt="csharp" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=sqlite" alt="sql" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=react" alt="react" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=html" alt="html" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=css" alt="css" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=linux" alt="linux" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=python" alt="python" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=kali" alt="kali" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=java" alt="java" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=github" alt="github" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=javascript" alt="js" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=bash" alt="bash" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=dotnet" alt="net" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=visualstudio" alt="VisualStudio" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=ubuntu" alt="ubuntu" loading="lazy">
-  <img src="https://skillicons.dev/icons?i=debian" alt="debian" loading="lazy">
+</div>
+<div>
   <img src="https://skillicons.dev/icons?i=discord" alt="discord" loading="lazy">
   <img src="https://skillicons.dev/icons?i=windows" alt="windows" loading="lazy">
 </div>
