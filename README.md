@@ -1,4 +1,5 @@
-![Copia de Banner de Linkedin Moderno para Arquitecto Azul y Blanco](https://github.com/user-attachments/assets/3db5b3b0-1ec2-4015-a404-cc014ea5ecfb)
+![image](https://github.com/user-attachments/assets/516c7d46-b331-4a00-8bd7-04294172fb3b)
+
 <h1 align="left">Hola que tal? 👋</h1>
 
 <div align="left">
