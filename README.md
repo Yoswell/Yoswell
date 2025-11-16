@@ -17,15 +17,14 @@
 ### 📦 About Me
 I'm a penetration testing specialist (black-box / white-box), web and mobile app security auditor, light reverse engineering, and tooling developer. I'm passionate about automating pentest workflows, creating PoCs, and sharing technical knowledge.
 
-#### 📦 Technical Skills
+#### Technical Skills
 Pentesting & Security:
 - Web penetration testing (OWASP Top 10), APIs, and infrastructure
 - Network and service audits (TCP/UDP, VPNs, LDAP, SMB)
 - Social engineering (with authorization), controlled phishing tests
 - Red Team: Tactics, techniques, and procedures (TTPs) & post-exploitation
 
-#### 📦 What I'm Currently Doing
-
+#### What I'm Currently Doing
 - Playing CTFs (mostly web, forensics & reversing)
 - Coding custom pentest tools
 - Researching malware & exploit techniques
