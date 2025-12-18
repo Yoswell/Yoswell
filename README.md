@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Yoswel (a.k.a Vishok)
+### Hi! 👋 I'm Yoswel (a.k.a VIsh0k)
 
 [![Pentester](https://img.shields.io/badge/PENTESTER-black)]()
 [![Developer](https://img.shields.io/badge/DEVELOPER-black)]()
