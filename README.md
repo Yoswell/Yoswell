@@ -18,7 +18,7 @@
 I'm a **cybersecurity professional** with a deep passion for exploring digital systems, identifying vulnerabilities, and building secure applications. My expertise spans across penetration testing (both black-box and white-box approaches), security auditing for web and mobile applications, light reverse engineering, and developing custom security tooling.
 
 #### Mission Statement
-> *"To bridge the gap between offensive security research and defensive implementations, creating more resilient digital ecosystems through education, automation, and ethical hacking."*
+> _To bridge the gap between offensive security research and defensive implementations, creating more resilient digital ecosystems through education, automation, and ethical hacking._
 
 #### Technical Specializations
 
@@ -40,6 +40,15 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
   * Creating educational resources for aspiring security professionals
 
 -----
+
+<div>
+ 
+<img src="https://academy.hackthebox.com/storage/badges/d557d56029e2604c7739e12b597a3b43/logo.png" width="80px" />
+<img src="https://images.credly.com/size/340x340/images/693976e7-9a76-4297-9f6a-acc341e34016/image.png" width="80px" />
+<img src="https://academy.hackthebox.com/storage/badges/the-hunt-is-on.png" width="80px" />
+
+</div>
+
 
 **Try hard, learn harder, and never stop exploring**
 
