@@ -1,19 +1,15 @@
 ### Hi! 👋 I'm Yoswel (a.k.a Vishok)
 
-[![Challenges](https://img.shields.io/badge/HACKER-black)]()
-[![Challenges](https://img.shields.io/badge/PENTESTER-black)]()
-[![Challenges](https://img.shields.io/badge/DEVELOPER-black)]()
-[![Challenges](https://img.shields.io/badge/CTF%20PLAYER-black)]()
-[![Challenges](https://img.shields.io/badge/HTML-black)]()
-[![Challenges](https://img.shields.io/badge/CSS-black)]()
-[![Challenges](https://img.shields.io/badge/TYPESCRIPT-black)]()
-[![Challenges](https://img.shields.io/badge/LINUX-black)]()
-[![Challenges](https://img.shields.io/badge/BASH-black)]()
-[![Challenges](https://img.shields.io/badge/JAVA-black)]()
-[![Challenges](https://img.shields.io/badge/C%23-black)]()
-[![Challenges](https://img.shields.io/badge/PYTHON-black)]()
-[![Challenges](https://img.shields.io/badge/FOROENSICS-black)]()
-[![Challenges](https://img.shields.io/badge/WEB-black)]()
+[![Pentester](https://img.shields.io/badge/PENTESTER-black)]()
+[![Developer](https://img.shields.io/badge/DEVELOPER-black)]()
+[![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-black)]()
+[![Code](https://img.shields.io/badge/TYPESCRIPT-black)]()
+[![SO](https://img.shields.io/badge/LINUX-black)]()
+[![Code](https://img.shields.io/badge/BASH-black)]()
+[![Code](https://img.shields.io/badge/JAVA-black)]()
+[![Code](https://img.shields.io/badge/PYTHON-black)]()
+[![Skills](https://img.shields.io/badge/FORENSICS-black)]()
+[![Skills](https://img.shields.io/badge/WEB-black)]()
 
 -----
 
@@ -41,13 +37,7 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 
 **Tool Development:**
   * Building an open-source penetration testing automation framework
-  * Developing custom payload generators and C2 (Command & Control) infrastructure
   * Creating educational resources for aspiring security professionals
-
-**Security Research:**
-  * Analyzing emerging malware families and exploit techniques
-  * Researching evasion techniques and anti-forensic methods
-  * Contributing to security communities through blog posts and conference talks
 
 -----
 
