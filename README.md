@@ -22,7 +22,8 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 
 #### Technical Specializations
 
-**Offensive Security & Pentesting:**
+##### Offensive Security & Pentesting
+
   * **Web Application Security**: Comprehensive testing against OWASP Top 10 vulnerabilities, API security assessments, and modern web infrastructure auditing
   * **Network Penetration Testing**: TCP/UDP service enumeration, VPN security assessments, LDAP/SMB protocol analysis, and enterprise network architecture reviews
   * **Social Engineering**: Authorized phishing campaigns, physical security testing, and human factor vulnerability assessments
@@ -30,12 +31,13 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 
 #### Current Projects & Activities
 
-**CTF Competitions:**
+##### CTF Competitions
+
   * Regularly participating in international CTF competitions
   * Specializing in **web exploitation**, **digital forensics**, and **reverse engineering** challenges
   * Maintaining a repository of write-ups and solution methodologies
 
-**Tool Development:**
+##### Tool Development
   * Building an open-source penetration testing automation framework
   * Creating educational resources for aspiring security professionals
 
