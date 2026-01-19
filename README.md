@@ -23,10 +23,9 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 
 ### Offensive Security & Pentesting
 
-* **Web Application Security**: Comprehensive testing against OWASP Top 10 vulnerabilities, API security assessments, and modern web infrastructure auditing
-* **Network Penetration Testing**: TCP/UDP service enumeration, VPN security assessments, LDAP/SMB protocol analysis, and enterprise network architecture reviews
-* **Social Engineering**: Authorized phishing campaigns, physical security testing, and human factor vulnerability assessments
-* **Red Teaming**: Advanced TTPs (Tactics, Techniques & Procedures), lateral movement strategies, privilege escalation, and post-exploitation frameworks
+* **Web Application Security**: Comprehensive testing against OWASP Top 10 vulnerabilities
+* **Network Penetration Testing**: TCP/UDP service enumeration
+* **Red Teaming**: Advanced TTPs (Tactics, Techniques & Procedures)
 
 ## Current Projects & Activities
 
