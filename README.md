@@ -45,9 +45,9 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 
 <div>
  
-<img src="https://academy.hackthebox.com/storage/badges/d557d56029e2604c7739e12b597a3b43/logo.png" width="80px" />
-<img src="https://images.credly.com/size/340x340/images/693976e7-9a76-4297-9f6a-acc341e34016/image.png" width="80px" />
-<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="80px" />
+<img src="https://academy.hackthebox.com/storage/badges/d557d56029e2604c7739e12b597a3b43/logo.png" width="70px" />
+<img src="https://images.credly.com/size/340x340/images/693976e7-9a76-4297-9f6a-acc341e34016/image.png" width="70px" />
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="70px" />
 
 </div>
 
