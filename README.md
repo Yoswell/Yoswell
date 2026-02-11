@@ -1,19 +1,27 @@
 # Hi! 👋 I'm Yoswel (a.k.a VIsh0k)
 
 [![Pentester](https://img.shields.io/badge/PENTESTER-black)]()
-[![Developer](https://img.shields.io/badge/DEVELOPER-black)]()
+[![Developer](https://img.shields.io/badge/DEV-black)]()
 [![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-black)]()
 [![Code](https://img.shields.io/badge/TYPESCRIPT-black)]()
 [![SO](https://img.shields.io/badge/LINUX-black)]()
-[![Code](https://img.shields.io/badge/BASH-black)]()
-[![Code](https://img.shields.io/badge/JAVA-black)]()
 [![Code](https://img.shields.io/badge/PYTHON-black)]()
 [![Skills](https://img.shields.io/badge/FORENSICS-black)]()
 [![Skills](https://img.shields.io/badge/WEB-black)]()
 
-## 📦 About Me
+## About Me
 
 I'm a **cybersecurity professional** with a deep passion for exploring digital systems, identifying vulnerabilities, and building secure applications. My expertise spans across penetration testing (both black-box and white-box approaches), security auditing for web and mobile applications, light reverse engineering, and developing custom security tooling.
+
+```css
+.Yoswell { 
+  position: Costa Rica; 
+  height: 164cm; 
+  display: boy; 
+  background: Tinker Resolver 🔨; 
+  color: white 
+}
+```
 
 ## Mission Statement
 
@@ -34,11 +42,6 @@ I'm a **cybersecurity professional** with a deep passion for exploring digital s
 * Regularly participating in international CTF competitions
 * Specializing in **web exploitation**, **digital forensics**, and **reverse engineering** challenges
 * Maintaining a repository of write-ups and solution methodologies
-
-### Tool Development
-
-* Building an open-source penetration testing automation framework
-* Creating educational resources for aspiring security professionals
 
 <div>
  
