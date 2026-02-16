@@ -1,13 +1,13 @@
 # Hi! 👋 I'm Yoswel (a.k.a VIsh0k)
 
-[![Pentester](https://img.shields.io/badge/PENTESTER-black)]()
-[![Developer](https://img.shields.io/badge/DEV-black)]()
-[![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-black)]()
-[![Code](https://img.shields.io/badge/TYPESCRIPT-black)]()
-[![SO](https://img.shields.io/badge/LINUX-black)]()
-[![Code](https://img.shields.io/badge/PYTHON-black)]()
-[![Skills](https://img.shields.io/badge/FORENSICS-black)]()
-[![Skills](https://img.shields.io/badge/WEB-black)]()
+[![Visits Badge](https://komarev.com/ghpvc/?username=Yoswell&label=yosswb&color=red)]()
+[![Pentester](https://img.shields.io/badge/PENTESTER-red)]()
+[![Developer](https://img.shields.io/badge/DEV-blue)]()
+[![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-gray)]()
+[![Code](https://img.shields.io/badge/TYPESCRIPT-yellow)]()
+[![SO](https://img.shields.io/badge/LINUX-green)]()
+[![Skills](https://img.shields.io/badge/FORENSICS-orange)]()
+[![Skills](https://img.shields.io/badge/WEB-pink)]()
 
 ## About Me
 
