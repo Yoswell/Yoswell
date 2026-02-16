@@ -1,46 +1,52 @@
-# Hi! 👋 I'm Yoswel (a.k.a VIsh0k)
+### Hi! 👋 I'm Yoswel (a.k.a VIsh0k)
 
-[![Visits Badge](https://komarev.com/ghpvc/?username=Yoswell&label=yosswb&color=red)]()
-[![Pentester](https://img.shields.io/badge/PENTESTER-pink)]()
-[![Developer](https://img.shields.io/badge/DEV-blue)]()
-[![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-gray)]()
-[![Code](https://img.shields.io/badge/TYPESCRIPT-yellow)]()
-[![SO](https://img.shields.io/badge/LINUX-green)]()
-[![Skills](https://img.shields.io/badge/FORENSICS-orange)]()
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## About Me
+### Penetration Tester and Full-Stack Developer
 
 I'm a **cybersecurity professional** with a deep passion for exploring digital systems, identifying vulnerabilities, and building secure applications. My expertise spans across penetration testing (both black-box and white-box approaches), security auditing for web and mobile applications, light reverse engineering, and developing custom security tooling.
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=Yoswell&label=yosswb&color=red)]()
+[![Pentester](https://img.shields.io/badge/PENTESTER-gray)]()
+[![Developer](https://img.shields.io/badge/DEV-blue)]()
+[![CTF-player](https://img.shields.io/badge/CTF%20PLAYER-gray)]()
+[![Code](https://img.shields.io/badge/TYPESCRIPT-blue)]()
+[![SO](https://img.shields.io/badge/LINUX-gray)]()
+[![Skills](https://img.shields.io/badge/FORENSICS-red)]()
 
 ```css
 .Yoswell { 
   position: Costa Rica; 
-  height: 164cm; 
+  height: 164; 
   display: boy; 
   background: Tinker Resolver 🔨; 
   color: white 
 }
 ```
 
-## Mission Statement
+### Mission Statement
 
 > _To bridge the gap between offensive security research and defensive implementations, creating more resilient digital ecosystems through education, automation, and ethical hacking._
 
-## Technical Specializations
+### Technical Specializations
 
-### Offensive Security & Pentesting
+#### Offensive Security & Pentesting
 
 * **Web Application Security**: Comprehensive testing against OWASP Top 10 vulnerabilities
 * **Network Penetration Testing**: TCP/UDP service enumeration
 * **Red Teaming**: Advanced TTPs (Tactics, Techniques & Procedures)
 
-## Current Projects & Activities
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### CTF Competitions
+### Current Projects & Activities
+
+#### CTF Competitions
 
 * Regularly participating in international CTF competitions
 * Specializing in **web exploitation**, **digital forensics**, and **reverse engineering** challenges
 * Maintaining a repository of write-ups and solution methodologies
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <div>
  
